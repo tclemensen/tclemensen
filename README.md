@@ -8,7 +8,7 @@
 - coding again after a very long break (15+ years), so essentially I'm re-learning everything.
 - ..
 - I am mostly using my own Git server these days, so don't expect a lot of updates here, unless I make a project I am
-- particuluarly satisfied with ;-)
+- especially satisfied with ;-)
 
 <!---
 tclemensen/tclemensen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
